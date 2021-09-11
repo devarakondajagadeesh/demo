@@ -25,5 +25,8 @@ public class User {
 		System.out.println(" phone number :" + phoneNumber);
 		
 	}
+	public void email(){
+		System.out.println("Email:" + email)'
+		}
 	}
        
