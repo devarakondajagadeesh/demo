@@ -11,6 +11,7 @@ public class InstanceMethodDemo {
 		System.out.println(usr.lastName);
 		usr.phoneNumber();
 		usr.lastName();
+		usr.email();
 	
 		
 		}
